@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&display=swap');
+
+* {
+    font-family:'Noto Sans JP', sans-serif;
+}
+
+body {
+    background-image: url(background.jpg);
+    background-size: 100%;
+}
+
+.container {
+    background-color: rgba(8, 6, 3, 0.507);
+    width: 1100px;
+    margin: auto;
+    padding: 90px;
+    border-radius: 10px;
+}
+
+header {
+    text-align: center;
+}
+
+.Logo {
+    width: 300px; 
+}
+
+.title {
+    color: #00dd00;
+    font-size: 35px;
+    margin: 5px;
+}
+
+.navigation {
+    background-color:#00dd00;
+    padding: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.text-color {
+    color: rgb(255, 255, 255);
+}
+
+.monopattino {
+    font-size: 18px;
+}
+
+.streets {
+    margin: 1px;
+    font-size: 15px;
+}
+
+.charge {
+    margin-top: 10px;
+    margin-bottom:  3px;
+    font-size: 15px;
+}
+
+.carica1 {
+    background-color: rgb(160, 81, 233);
+    padding: 15px;
+    border-radius: 5px;
+    margin-right: 700px;
+    margin-bottom: 20px;
+    
+}
+
+.carica2 {
+    background-color: rgb(43, 137, 226);
+    padding: 15px;
+    border-radius: 5px;
+    margin-right: 1000px;
+    margin-bottom: 20px;
+}
+
+.carica3 {
+    background-color: rgb(219, 170, 36);
+    padding: 15px;
+    border-radius: 5px;
+    margin-right: 450px;
+    margin-bottom: 20px;
+}
+
